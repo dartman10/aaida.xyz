@@ -1,5 +1,5 @@
-My Private Life
+# My Private Life
 
-# blockstack-diary
+blockstack-diary
 
 My Private Life - online diary, daily journal, powered by BlockStack
