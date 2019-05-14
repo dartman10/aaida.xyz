@@ -1,7 +1,7 @@
 # MY PRIVATE LIFE
 secure | private | free
 
-My daily journal.
+My daily journal.<br />
 Protected by blockchain.
 Securely encrypted.
 Privately stored.
