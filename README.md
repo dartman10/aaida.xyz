@@ -1,2 +1,3 @@
 # aaida.xyz
-[ random tech helpers ]
+
+## [ random tech helpers ]

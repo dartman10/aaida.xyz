@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "title": "SPAC Weekly",
+    "titleTemplate": "%s",
+    "description": "Weekly newsletter of SPAC IPO stocks, list, news and events.",
+    "siteUrl": "https://www.SPACWeekly.com",
+    "image": "/assets/stackrole.png",
+    "twitterUsername": "@spacweekly.com"
+  },
+  "ga": "UA-XXXXXXXXX-X"
+}
