@@ -1,11 +1,12 @@
 ---
 template: index-page
 slug: /
-title: SPAC Weekly
-tagline: Special Purpose Acquisition Company
+title: aaida.xyz
+tagline: aaida.xyz
 featuredImage: /assets/personal-360201_1920.jpg
 cta:
-  ctaText: Subscribe Free
+  ctaText: If you wish...
   ctaLink: /contact
 ---
-SPAC Weekly delivers weekly summary of SPAC S1 filings and IPOs and blank check company profiles.
+
+aaida forever

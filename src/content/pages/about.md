@@ -1,6 +1,7 @@
 ---
 template: about-page
 slug: /about
-title: About SPAC Weekly
+title: About aaida.xyz
 ---
-SPAC Weekly delivers weekly newsletter about SPAC S1 filings, recent IPOs and blank check company profiles.
+
+What is aaida?  Who is aaida?  When is aaida?
