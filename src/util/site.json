@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "SPAC Weekly",
+    "title": "aaida.xyz",
     "titleTemplate": "%s",
-    "description": "Weekly newsletter of SPAC IPO stocks, list, news and events.",
-    "siteUrl": "https://www.SPACWeekly.com",
+    "description": "aaida.xyz",
+    "siteUrl": "https://www.aaida.xyz",
     "image": "/assets/stackrole.png",
-    "twitterUsername": "@spacweekly.com"
+    "twitterUsername": "@aaida.xyz"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
