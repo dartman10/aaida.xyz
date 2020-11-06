@@ -8,20 +8,12 @@ const MenuItems = [
     title: "Home"
   },
   {
-    path: "/spac_ultimate_list",
-    title: "Ultimate List"
-  },
-  {
     path: "/contact",
     title: "Subscribe Now"
   },
   {
     path: "/blog",
     title: "Weekly Updates"
-  },
-  {
-    path: "/spac_faq",
-    title: "FAQ"
   },
 ]
 
